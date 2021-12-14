@@ -1,0 +1,40 @@
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe.config
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.pdb
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csprojAssemblyReference.cache
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.Properties.Resources.resources
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.GenerateResource.cache
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.CoreCompileInputs.cache
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.exe
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.pdb
+C:\Users\Hydde\Documents\Projetos\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.fPrincipal.resources
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe.config
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.pdb
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csprojAssemblyReference.cache
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.fPrincipal.resources
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.Properties.Resources.resources
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.GenerateResource.cache
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.CoreCompileInputs.cache
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.exe
+C:\Users\Hydde\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.pdb
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe.config
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.pdb
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csprojAssemblyReference.cache
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.fPrincipal.resources
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.Properties.Resources.resources
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.GenerateResource.cache
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.CoreCompileInputs.cache
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.exe
+C:\Users\heito\Source\Repos\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.pdb
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe.config
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.exe
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\bin\Debug\ComputaçãoGráfica.pdb
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.AssemblyReference.cache
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.fPrincipal.resources
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.Properties.Resources.resources
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.GenerateResource.cache
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.csproj.CoreCompileInputs.cache
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.exe
+C:\Users\Hydde\Desktop\Computação Gráfica\ComputacaoGrafica\ComputaçãoGráfica\ComputaçãoGráfica\obj\Debug\ComputaçãoGráfica.pdb
